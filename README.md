@@ -6,6 +6,7 @@ Other:
 * Single Number
 * String Reverse
 * Sum Two
+* Evaluate Reverse Polish Notation
 
 1.
 * Percolation
@@ -17,6 +18,11 @@ Other:
 * Bitonic Array
 
 2.
+* Queue with 2 stacks
+* Stack with max
+
+* Deque
+* RandomizedQueue
 
 
 
