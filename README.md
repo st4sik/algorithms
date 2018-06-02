@@ -7,6 +7,7 @@ Other:
 * String Reverse
 * Sum Two
 * Evaluate Reverse Polish Notation
+* Insertion Sort List
 
 1.
 * Percolation
@@ -20,6 +21,9 @@ Other:
 2.
 * Queue with 2 stacks
 * Stack with max
+* Dutch National Flag
+* Intersection 2 Sets
+* Permutation
 
 * Deque
 * RandomizedQueue
