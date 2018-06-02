@@ -1,4 +1,4 @@
-package main.com.algo;
+package com.algo.main;
 
 public class IntegerReverse {
     public int reverse(int x) {

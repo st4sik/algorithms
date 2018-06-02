@@ -1,4 +1,4 @@
-package main.com.algo;
+package com.algo.main;
 
 import java.util.Stack;
 
@@ -34,5 +34,4 @@ public class EvaluateRPN {
 		returnValue = Integer.valueOf(stack.pop());
 		return returnValue;
 	}
-
 }
