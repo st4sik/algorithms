@@ -8,6 +8,9 @@ Other:
 * Sum Two
 * Evaluate Reverse Polish Notation
 * Insertion Sort List
+* Ugle Numbers
+* Prime Number
+* Valid Parentheses
 
 1.
 * Percolation
