@@ -32,6 +32,13 @@ Other:
 * RandomizedQueue
 
 3.
+* Counting inversions
+* Merging with smaller auxiliary array
+* Shuffling a linked list
+* Decimal dominants
+* KElementFrom2Arrays
+
+* Collinear Points
 
 
 
