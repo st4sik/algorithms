@@ -16,8 +16,8 @@ public class DynamicMedian {
 	private MinPQ<Integer> right;
 
 	public DynamicMedian() {
-		this.left = new MaxPQ<>(new Integer[]{1, 2, 3, 4, 5, 6, 7, 8});
-		this.right = new MinPQ<>(new Integer[]{11, 12, 13, 14, 15, 16, 17, 18});
+		this.left = new MaxPQ<>(new Integer[]{11, 12, 13, 14, 15, 16, 17, 18});
+		this.right = new MinPQ<>(new Integer[]{1, 2, 3, 4, 5, 6, 7, 8});
 	}
 
 	public double getMedian() {
@@ -42,14 +42,14 @@ public class DynamicMedian {
 			left.insert(key);
 			if (left.size() - right.size() > 1) {
 				right.insert(left.delMax());
-			} else {
+			}
+		}else {
 				right.insert(key);
 				if (right.size() - left.size() > 1) {
 					left.insert(right.delMin());
 				}
 			}
 		}
-	}
 
 	public void removeMedian() {
 		if (left.size() > right.size()) {
@@ -67,6 +67,8 @@ public class DynamicMedian {
 		dynamicMedian.removeMedian();
 		median = dynamicMedian.getMedian();
 		StdOut.print(median);
+
+		dynamicMedian.insert(100);
 
 	}
 
