@@ -40,6 +40,11 @@ Other:
 
 * Collinear Points
 
+4.
+* DynamicMedian
+* TaxicabNumbers
+* BST
+
 
 
 
