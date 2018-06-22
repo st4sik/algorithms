@@ -45,6 +45,9 @@ Other:
 * TaxicabNumbers
 * BST
 
+5.
+* Generalized queue with RedBlackBST
+
 
 
 
