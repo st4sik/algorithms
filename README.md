@@ -11,6 +11,7 @@ Other:
 * Ugle Numbers
 * Prime Number
 * Valid Parentheses
+* Sum 4 -> Sum 3
 
 1.
 * Percolation
@@ -48,6 +49,5 @@ Other:
 5.
 * Generalized queue with RedBlackBST
 
-
-
-
+6.
+* Sum 4 (HashMap)
