@@ -51,3 +51,5 @@ Other:
 
 6.
 * Sum 4 (HashMap)
+
+7.
