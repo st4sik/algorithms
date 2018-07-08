@@ -53,3 +53,7 @@ Other:
 * Sum 4 (HashMap)
 
 7.
+* BFS
+* DFS
+* Diameter and Center of tree
+* Euler Cycle
