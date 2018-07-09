@@ -62,4 +62,7 @@ Other:
 * Reachable Vertex
 * Shortest Directed Cycle
 
+* WordNet
+
+8.
 
