@@ -51,3 +51,18 @@ Other:
 
 6.
 * Sum 4 (HashMap)
+
+7.
+* BFS
+* DFS
+* Diameter and Center of tree
+* Euler Cycle
+* Diameter BT
+* Hamiltonian Path
+* Reachable Vertex
+* Shortest Directed Cycle
+
+* WordNet
+
+8.
+
