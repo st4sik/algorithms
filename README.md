@@ -65,4 +65,7 @@ Other:
 * WordNet
 
 8.
+* Bottleneck minimum spanning tree -
+* Is an edge in a MST
+* Minimum-weight feedback edge set
 
