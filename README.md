@@ -68,4 +68,6 @@ Other:
 * Bottleneck minimum spanning tree -
 * Is an edge in a MST
 * Minimum-weight feedback edge set
-
+* Monotonic shortest path -
+* Shortest path with one skippable edge
+* Second shortest path -
