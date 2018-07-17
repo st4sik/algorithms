@@ -71,3 +71,13 @@ Other:
 * Monotonic shortest path -
 * Shortest path with one skippable edge
 * Second shortest path -
+
+9.
+* Perfect matchings in k-regular bipartite graphs -
+* Fattest path -
+* Maximum weight closure problem -
+* American Flag Sort
+* Cyclic Rotations -
+* Sum 2
+
+* Baseball Elimination
