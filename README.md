@@ -81,3 +81,8 @@ Other:
 * Sum 2
 
 * Baseball Elimination
+
+10.
+* Boogle -
+* Prefix Free Codes
+* Suffix Trees
