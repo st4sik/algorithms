@@ -89,3 +89,6 @@ Other:
 * Cyclic Rotation Of a String
 * Longest Palindromic Substring -
 * Tandem Repeat -
+
+11.
+* NFA
