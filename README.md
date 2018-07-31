@@ -86,9 +86,12 @@ Other:
 * Boogle -
 * Prefix Free Codes
 * Suffix Trees
+
 * Cyclic Rotation Of a String
 * Longest Palindromic Substring -
 * Tandem Repeat -
 
 11.
-* NFA
+* Extensions to NFA
+
+* Burrows Wheeler
