@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
-public class LeetCode41 {
+public class Sum4 {
 
 	public List<List<Integer>> fourSum(int[] nums, int target) {
 		List<List<Integer>> result = new ArrayList<>();
