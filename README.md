@@ -12,6 +12,12 @@ Other:
 * Prime Number
 * Valid Parentheses
 * Sum 4 -> Sum 3
+* Invert Binary Tree
+* Buddy Strings
+* Merge Sorted Array
+* Min Depth Binary Tree
+* Sqrt (X)
+* Third Max Element
 
 1.
 * Percolation
