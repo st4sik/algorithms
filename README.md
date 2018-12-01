@@ -18,6 +18,12 @@ Other:
 * Min Depth Binary Tree
 * Sqrt (X)
 * Third Max Element
+* Trie (Prefix Tree)
+* Find Duplicate
+* Group Anagrams 
+* Remove N-th From End
+* Kth Largest Element in an Array
+* Top K Frequent Elements
 
 1.
 * Percolation
